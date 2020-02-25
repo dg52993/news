@@ -21,9 +21,15 @@
     <title>News</title>
   </head>
   <body>
+
+            <ul>
+                <% for daily in @forecast["daily"] %>
+                <li><%= daily%> 
+                <% end %>
+            </ul>
+            <ul>
+                <% for zebra in @news["articles"] %>
+                <li><%= zebra["title"]%> ; <%= zebra["url"] %></li> 
+                <% end %>
+            </ul>
                 
-                <ul>
-                    <% for daily in  @forecast["daily"]["data"]%>
-                    On <%= daily[] %>
-                    <% end %>
-                </ul>

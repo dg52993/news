@@ -1,0 +1,283 @@
+{"status"=>"ok",
+ "totalResults"=>38,
+ "articles"=>
+  [{"source"=>
+     {"id"=>"the-wall-street-journal", "name"=>"The Wall Street Journal"},
+    "author"=>"Caitlin Ostroff",
+    "title"=>
+     "Global Markets Swing in Wake of Wall Street Selloff - The Wall Street Journal",
+    "description"=>
+     "Bond markets signal ongoing concerns about global economic growth, with U.S. Treasury yields on track to breach an all-time low",
+    "url"=>
+     "https://www.wsj.com/articles/global-stocks-stabilize-after-deep-selloff-11582621412",
+    "urlToImage"=>"https://images.wsj.net/im-157418/social",
+    "publishedAt"=>"2020-02-25T11:58:00Z",
+    "content"=>
+     "Global stocks were mixed in a day of volatile trading, even as bond markets signaled continuing fears among investors about the economic impact of the coronavirus outbreak following the sharp selloff a day earlier.\r\n" +
+     "Futures tied to the Dow Jones Industrial Av… [+276 chars]"},
+   {"source"=>{"id"=>"cnn", "name"=>"CNN"},
+    "author"=>"Angela Dewan and Sharon Braithwaite, CNN",
+    "title"=>
+     "Rapid coronavirus spread puts Italy on the backfoot as Conte admits hospital mess-up - CNN",
+    "description"=>
+     "Italian Prime Minister Giuseppe Conte has admitted that a hospital in the country's north had contributed to the spread of the deadly coronavirus, raising questions about whether the European nation is capable of containing the outbreak.",
+    "url"=>
+     "https://www.cnn.com/2020/02/25/europe/italy-coronavirus-backfoot-intl/index.html",
+    "urlToImage"=>
+     "https://cdn.cnn.com/cnnnext/dam/assets/200222054355-01-coronavirus-0221-italy-super-tease.jpg",
+    "publishedAt"=>"2020-02-25T11:34:00Z",
+    "content"=>nil},
+   {"source"=>{"id"=>nil, "name"=>"Nytimes.com"},
+    "author"=>"Michael Slackman",
+    "title"=>
+     "Hosni Mubarak, Egyptian Leader Ousted in Arab Spring, Dies at 91 - The New York Times",
+    "description"=>
+     "Mr. Mubarak, who had been likened to a modern-day pharaoh, was deposed in 2011 by the popular unrest in the Arab world that came to be called the Arab Spring.",
+    "url"=>
+     "https://www.nytimes.com/2020/02/25/obituaries/hosni-mubarak-dead.html",
+    "urlToImage"=>
+     "https://static01.nyt.com/images/2016/10/06/world/mubarak-video-still-2/mubarak-video-still-2-facebookJumbo.jpg",
+    "publishedAt"=>"2020-02-25T11:10:00Z",
+    "content"=>
+     "Mr. Mubaraks governance hardly changed with the times. During his years in power, life grew harder for most Egyptians, the population doubled, to 80 million, and the social contract frayed. He came to be viewed as an isolated autocrat who promoted, or at leas… [+1854 chars]"},
+   {"source"=>{"id"=>"engadget", "name"=>"Engadget"},
+    "author"=>"Steve Dent",
+    "title"=>
+     "Samsung's new chips usher in smartphones with 16GB of DRAM - Engadget",
+    "description"=>
+     "Samsung's latest chips will boost smartphones to 16GB of RAM while delivering more speed and power.",
+    "url"=>
+     "https://www.engadget.com/2020/02/25/samsung-16-gigabyte-dram-smartphone-chips/",
+    "urlToImage"=>
+     "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2000%252C1226%252C0%252C141%26quality%3D85%26format%3Djpg%26resize%3D1600%252C981%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252Faaf205f0-57b0-11ea-8efe-981832041b36%26client%3Da1acac3e1b3290917d92%26signature%3D1a599ae36602e49dcaf921c26dfc01993734eb3a&client=amp-blogside-v2&signature=b82c9f3c5949261dad16ef6eee40927a6997d6fc",
+    "publishedAt"=>"2020-02-25T10:47:37Z",
+    "content"=>
+     "On top of boosting the memory of upcoming smartphones, it'll make them faster as well, thanks to the LPDDR5's 5,500 Mbps (687.5 MB/s) speeds, about 30 percent quicker than 4,266 Mbps 8GB LPDDR4X chips. The chips also use 20 percent less energy than last-gener… [+1061 chars]"},
+   {"source"=>{"id"=>"the-verge", "name"=>"The Verge"},
+    "author"=>"Tom Warren",
+    "title"=>
+     "Microsoft’s new Xbox One dashboard now available with updated home screen - The Verge",
+    "description"=>
+     "Microsoft is rolling out a new Xbox One dashboard update that includes an overhauled home screen design. It’s the latest change to the Xbox dashboard interface, and it’s designed to make it quicker to access games and apps on the console.",
+    "url"=>
+     "https://www.theverge.com/2020/2/25/21152327/microsoft-xbox-one-dashboard-update-design-home-screen-features",
+    "urlToImage"=>
+     "https://cdn.vox-cdn.com/thumbor/C6_YE7vEU0Ccjpx5SNUQ3qwrodE=/0x178:2400x1435/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19744817/twarren_xboxonedashboardupdate.jpg",
+    "publishedAt"=>"2020-02-25T10:40:03Z",
+    "content"=>
+     "The Xbox dashboard gets simplified\r\n" +
+     "New Xbox One dashboard\r\n" +
+     "Photo by Tom Warren / The Verge\r\n" +
+     "Microsoft is rolling out its new Xbox One dashboard design to all consoles this week. The new design focuses on overhauling the home page of the Xbox One dashboard, w… [+1597 chars]"},
+   {"source"=>{"id"=>"cbs-news", "name"=>"CBS News"},
+    "author"=>"CBS News",
+    "title"=>
+     "Coronavirus live updates: South Korea races to contain outbreak as virus fears slam stock markets - CBS News",
+    "description"=>
+     "The spread of COVID-19 in China appears to be slowing, but with clusters growing elsewhere, the U.S. is mounting a multi-billion dollar battle against the disease.",
+    "url"=>
+     "https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-infections-latest-news-updates-2020-02-25/",
+    "urlToImage"=>
+     "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/25/4321e241-53f9-4a17-94ab-f13e4e2a87ec/thumbnail/1200x630/e1f8a671724e597addb81a89a6034f3d/korea-coronavirus-1208325102.jpg",
+    "publishedAt"=>"2020-02-25T10:37:00Z",
+    "content"=>
+     "A federal judge on Monday ordered U.S. and California officials to answer questions from local officials about plans to relocate former cruise ship passengers who test positive for a new coronavirus to a facility in Southern California.\r\n" +
+     "U.S. District Judge J… [+1144 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Npr.org"},
+    "author"=>"",
+    "title"=>
+     "What Time Is The Democratic Debate In South Carolina? A Guide - NPR",
+    "description"=>
+     "A lot is on the line in the 2020 primary debate. It might be the last chance for moderates to slow Bernie Sanders' momentum. And who comes out better — Joe Biden or Michael Bloomberg? Here's a guide.",
+    "url"=>
+     "https://www.npr.org/2020/02/25/809029045/5-things-to-watch-for-in-tuesdays-south-carolina-democratic-debate",
+    "urlToImage"=>
+     "https://media.npr.org/assets/img/2020/02/24/ap_20054759799007_wide-3708a43bc888334f45385377654bc824ca1c028d.jpg?s=1400",
+    "publishedAt"=>"2020-02-25T10:24:00Z",
+    "content"=>
+     "Former New York City Mayor Michael Bloomberg (left), Sen. Elizabeth Warren and Sen. Bernie Sanders participate in last week's Democratic presidential primary debate in Las Vegas.\r\n" +
+     "John Locher/AP\r\n" +
+     "Days before the South Carolina primary, seven Democratic candid… [+5433 chars]"},
+   {"source"=>{"id"=>"politico", "name"=>"Politico"},
+    "author"=>nil,
+    "title"=>
+     "Bloomberg internal poll claims Bernie would sink downballot Dems - POLITICO",
+    "description"=>
+     "Mike Bloomberg's campaign is shopping an internal survey that shows the liberal Vermont senator could be a millstone around the necks of vulnerable House Democrats.",
+    "url"=>
+     "https://www.politico.com/news/2020/02/25/bloomberg-internal-poll-claims-bernie-would-hurt-downballot-dems-117290",
+    "urlToImage"=>
+     "https://static.politico.com/4c/bf/e988d24545c9b32547f8ecaa829a/20200223-sanders-ap-773.jpg",
+    "publishedAt"=>"2020-02-25T10:22:00Z",
+    "content"=>
+     "But Sanders' potential impact extends beyond the presidential race. A plurality of voters, 39 percent, say they will be less likely to vote for a Democrat for Congress if Sanders is the Democratic nominee and his ideas are folded into the party platform. That… [+3324 chars]"},
+   {"source"=>{"id"=>"cnbc", "name"=>"CNBC"},
+    "author"=>"Melissa Repko",
+    "title"=>
+     "Home Depot shares rise after earnings top estimates, CEO says investments are paying off - CNBC",
+    "description"=>
+     "Home Depot's CEO said the earnings indicate that its significant investments are paying off.",
+    "url"=>
+     "https://www.cnbc.com/2020/02/25/home-depot-hd-earnings-q4-2019.html",
+    "urlToImage"=>
+     "https://image.cnbcfm.com/api/v1/image/103172163-GettyImages-484406194.jpg?v=1447695036",
+    "publishedAt"=>"2020-02-25T10:18:00Z",
+    "content"=>
+     "Home Depot on Tuesday beat Wall Street's earnings expectations for the fourth quarter, and CEO Craig Menear said the results show that its significant investments are paying off.\r\n" +
+     "Here's what the company reported compared with what analysts expected for Home … [+3991 chars]"},
+   {"source"=>{"id"=>"cnbc", "name"=>"CNBC"},
+    "author"=>"Huileng Tan",
+    "title"=>"US-China rivalry simmers in India as Trump visits - CNBC",
+    "description"=>
+     "The rivalry between the U.S. and China is playing out in India, where President Donald Trump will be wrapping up his state visit to the South Asian country in an election year.",
+    "url"=>
+     "https://www.cnbc.com/2020/02/25/trump-visits-india-as-modi-administration-balances-us-china-relations.html",
+    "urlToImage"=>
+     "https://image.cnbcfm.com/api/v1/image/106407317-1582596384253gettyimages-1202945091.jpeg?v=1582625460",
+    "publishedAt"=>"2020-02-25T09:22:00Z",
+    "content"=>
+     "US President Donald Trump (R) and India's Prime Minister Narendra Modi wave at the crowd during 'Namaste Trump' rally at Sardar Patel Stadium in Motera, on the outskirts of Ahmedabad, on February 24, 2020.\r\n" +
+     "The rivalry between the U.S. and China is playing ou… [+4002 chars]"},
+   {"source"=>{"id"=>"cnn", "name"=>"CNN"},
+    "author"=>"Ben Westcott, Steven Jiang and Eric Cheung, CNN",
+    "title"=>
+     "Hong Kong bookseller Gui Minhai sentenced to ten years in Chinese jail - CNN",
+    "description"=>
+     "A Chinese court has sentenced Swedish bookseller Gui Minhai to 10 years in prison for \"providing intelligence\" overseas, in a case that is likely to reignite international criticism of Beijing's treatment of its critics.",
+    "url"=>
+     "https://www.cnn.com/2020/02/25/asia/gui-minhai-china-hong-kong-sentence-intl-hnk/index.html",
+    "urlToImage"=>
+     "https://cdn.cnn.com/cnnnext/dam/assets/160301003155-gui-minhai-super-tease.jpg",
+    "publishedAt"=>"2020-02-25T09:21:00Z",
+    "content"=>nil},
+   {"source"=>{"id"=>"the-verge", "name"=>"The Verge"},
+    "author"=>"Nick Statt",
+    "title"=>
+     "Amazon is expanding its cashierless Go model into a full-blown grocery store - The Verge",
+    "description"=>
+     "Amazon’s cashier-less Go stores are getting a much larger companion in the form of Amazon Go Grocery, a new grocery store format that lets customers leave without checking out. It opens today in Seattle’s Capitol Hill district.",
+    "url"=>
+     "https://www.theverge.com/2020/2/25/21151021/amazon-go-grocery-store-expansion-open-seattle-cashier-less",
+    "urlToImage"=>
+     "https://cdn.vox-cdn.com/thumbor/kf16GtP6W-RkOmdJbXmsIGI3vjg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19743147/nstatt_200221_3917_0002.jpg",
+    "publishedAt"=>"2020-02-25T08:01:00Z",
+    "content"=>
+     "The first Amazon Go Grocery opens today in Seattles Capitol Hill district\r\n" +
+     "Photo by Nick Statt / The Verge\r\n" +
+     "Amazon is getting more serious about its brick-and-mortar retail ambitions with its first-ever Amazon-branded grocery store. The store opens today in S… [+7004 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Variety.com"},
+    "author"=>"Owen Gleiberman, Owen Gleiberman",
+    "title"=>"Elisabeth Moss in ‘The Invisible Man’: Film Review - Variety",
+    "description"=>
+     "These days, the horror-fantasy thriller tends to be a junk metaphysical spook show that throws a whole lot of scary clutter at the audience — ghosts, “demons,” mad killers — without nec…",
+    "url"=>
+     "https://variety.com/2020/film/reviews/the-invisible-man-review-elisabeth-moss-1203512835/",
+    "urlToImage"=>
+     "https://pmcvariety.files.wordpress.com/2019/11/the-invisible-man.jpg?w=700&h=393&crop=1",
+    "publishedAt"=>"2020-02-25T07:00:00Z",
+    "content"=>
+     "These days, the horror-fantasy thriller tends to be a junk metaphysical spook show that throws a whole lot of scary clutter at the audience — ghosts, “demons,” mad killers — without necessarily adding up to an experience that’s about anything. But in “The Inv… [+6091 chars]"},
+   {"source"=>{"id"=>"associated-press", "name"=>"Associated Press"},
+    "author"=>"Jocelyn Gecker",
+    "title"=>
+     "AP: US opera union probe finds Plácido Domingo abused power - The Associated Press",
+    "description"=>
+     "SAN FRANCISCO (AP) — An investigation into legendary singer Plácido Domingo by the U.S. union representing opera performers found more than two dozen people who said they were sexually harassed or...",
+    "url"=>"https://apnews.com/1a8add4db2c4ba38420b7b8b2857ffac",
+    "urlToImage"=>
+     "https://storage.googleapis.com/afs-prod/media/009d6d2f1b6e4edcbcea6dd71681bb49/2226.jpeg",
+    "publishedAt"=>"2020-02-25T06:30:28Z",
+    "content"=>
+     "SAN FRANCISCO (AP) An investigation into legendary singer Plácido Domingo by the U.S. union representing opera performers found more than two dozen people who said they were sexually harassed or witnessed inappropriate behavior by the superstar when he held s… [+6573 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Forbes.com"},
+    "author"=>"Janakiram MSV",
+    "title"=>
+     "Why Azure Sphere From Microsoft Is A Big Deal For The IoT Ecosystem - Forbes",
+    "description"=>
+     "With Azure Sphere, Microsoft has taken the lead in building an end-to-end connected platform spanning the MCU to the cloud. It’s the industry’s first IoT solution secured from the ground up.",
+    "url"=>
+     "https://www.forbes.com/sites/janakirammsv/2020/02/25/why-azure-sphere-from-microsoft-is-a-big-deal-for-the-iot-ecosystem/",
+    "urlToImage"=>
+     "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e54b74d7a009800073428c9%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D750%26cropY1%3D73%26cropY2%3D495",
+    "publishedAt"=>"2020-02-25T06:05:00Z",
+    "content"=>
+     "The market for the Internet of Things and connected devices is rapidly growing. From smart air conditioners used in households to large wind turbines installed in remote places, millions of devices are now connected to the cloud.Azure Sphere MT3620 Starter Ki… [+9019 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Pitchfork.com"},
+    "author"=>"Evan Minsker",
+    "title"=>
+     "Watch BTS’ Fallon Performance of “ON” at Grand Central - Pitchfork",
+    "description"=>
+     "The international superstars also sat down for an interview on the subway and hung out at an NYC deli with the Tonight Show host",
+    "url"=>
+     "https://pitchfork.com/news/watch-bts-fallon-performance-of-on-at-grand-central/",
+    "urlToImage"=>
+     "https://media.pitchfork.com/photos/5e54a48619382e00087246c3/2:1/w_790/BTS-Jimmy-Fallon.jpg",
+    "publishedAt"=>"2020-02-25T05:32:00Z",
+    "content"=>
+     "The latest episode of The Tonight Show Starring Jimmy Fallon was an episode-length celebration of BTS. The band, who just released their new album MAP OF THE SOUL : 7, hung out around New York City with Fallon.\r\n" +
+     "They sat down in an empty subway car with Fallo… [+717 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Bbc.com"},
+    "author"=>"https://www.facebook.com/bbcnews",
+    "title"=>
+     "Harvey Weinstein accusers welcome rape and sexual assault conviction - BBC News",
+    "description"=>
+     "Lawyers for the ex-movie mogul, who is taken to hospital with reported chest pains, vow to appeal.",
+    "url"=>"https://www.bbc.com/news/world-us-canada-51624248",
+    "urlToImage"=>"https://ichef.bbci.co.uk/images/ic/1024x576/p084nx55.jpg",
+    "publishedAt"=>"2020-02-25T04:22:32Z",
+    "content"=>
+     "Media captionDistrict Attorney Cyrus Vance Jr: \"Weinstein is a vicious, serial sexual predator\"\r\n" +
+     "Accusers of Harvey Weinstein have welcomed the guilty verdicts in the rape and sexual assault case against the former Hollywood mogul.\r\n" +
+     "Actress Rose McGowan told … [+6368 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Cbssports.com"},
+    "author"=>"",
+    "title"=>
+     "Oregon star Sabrina Ionescu makes Division I history hours after speaking at Kobe Bryant memorial - CBS Sports",
+    "description"=>
+     "Ionescu incredibly hit the mark on the same day she helped eulogize Kobe and Gianna Bryant in Los Angeles",
+    "url"=>
+     "https://www.cbssports.com/college-basketball/news/oregon-star-sabrina-ionescu-makes-division-i-history-hours-after-speaking-at-kobe-bryant-memorial/",
+    "urlToImage"=>
+     "https://sportshub.cbsistatic.com/i/r/2020/02/25/f2e2e6e9-497f-4176-aad3-51fada9da825/thumbnail/1200x675/9497e70f5eb6bdc88f27a2e9c32c91f3/ionescu.jpg",
+    "publishedAt"=>"2020-02-25T04:20:00Z",
+    "content"=>
+     "Oregon star Sabrina Ionescu became the first NCAA Division I player -- man or woman -- ever to reach 2,000 points, 1,000 assists and 1,000 rebounds in her career during No. 3 Oregon's victory Monday night against No. 4 Stanford. Ionescu, Oregon's all-time lea… [+1600 chars]"},
+   {"source"=>{"id"=>"usa-today", "name"=>"USA Today"},
+    "author"=>"John Fritze",
+    "title"=>
+     "White House requests $2.5 billion for coronavirus, Dems say that's 'woefully insufficient' - USA TODAY",
+    "description"=>
+     "The White House requested $2.5 billion Monday to deal with the coronavirus, but congressional Democrats slammed the request as \"woefully insufficient.\"",
+    "url"=>
+     "https://www.usatoday.com/story/news/politics/2020/02/24/coronavirus-donald-trump-requests-2-5-billion-response/4822748002/",
+    "urlToImage"=>
+     "https://www.gannett-cdn.com/presto/2020/02/20/USAT/849df323-3b11-47b4-a1a2-04c322abb2c2-hope-for-prisoners-pic2.JPG?crop=5549,3121,x0,y0&width=3200&height=1680&fit=bounds",
+    "publishedAt"=>"2020-02-25T03:07:33Z",
+    "content"=>
+     "President Donald Trump says he will not use his presidential powers to intercede in the Roger Stone case, he will let \"the process play out.\" (Feb. 20)\r\n" +
+     "AP Domestic\r\n" +
+     "WASHINGTON  The White House requested $2.5 billion in emergency funding late Monday to deal w… [+3400 chars]"},
+   {"source"=>{"id"=>"engadget", "name"=>"Engadget"},
+    "author"=>"Jon Fingas",
+    "title"=>
+     "TurboTax maker Intuit buys Credit Karma to corner personal financial data - Engadget",
+    "description"=>
+     "Intuit is betting it can create a better personal finance assistant, but will Credit Karma's services stay free?",
+    "url"=>
+     "https://www.engadget.com/2020/02/24/intuit-buys-credit-karma-for-7-1-billion/",
+    "urlToImage"=>
+     "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5345%252C3563%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Feccfcde0-5760-11ea-989f-011fca25a2bb%26client%3Da1acac3e1b3290917d92%26signature%3Dcf2ef426d8ed74fb9e809fdc7f9e5d850e2a7d6c&client=amp-blogside-v2&signature=86ce317761132d10b270a25e9b9d6fca46cd7f3b",
+    "publishedAt"=>"2020-02-25T01:43:59Z",
+    "content"=>
+     "Credit Karma will run as a stand-alone outfit, with existing CEO Kenneth Lin still in charge. Intuit expects the acquisition to close in the second half of 2020 if it clears the regulatory process.\r\n" +
+     "The deal makes sense for Intuit. While it has the budgeting … [+1041 chars]"}]}
+Puma starting in single mode...
+* Version 4.3.1 (ruby 2.6.3-p62), codename: Mysterious Traveller
+* Min threads: 0, max threads: 16
+* Environment: development
+* Listening on tcp://127.0.0.1:4567
+* Listening on tcp://[::1]:4567
+Use Ctrl-C to stop
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2020-02-25 14:56:39 +0000 ===
+- Goodbye!
