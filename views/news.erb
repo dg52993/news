@@ -22,14 +22,65 @@
   </head>
   <body>
 
-            <ul>
-                <% for daily in @forecast["daily"] %>
-                <li><%= daily%> 
-                <% end %>
-            </ul>
+    <div class="jumbotron">
+        <h1 class="display-3">Welcome to the Weather and News</h1>
+        <hr class="my-4">
+        <p class="lead">
+        <a class="btn btn-primary btn-lg" href="/" role="button">Take me back</a>
+        </p>
+    </div>
+    <div>
+    
+    </div>
+     <div class="container-fluid">
+     <div class="row">
+     <div class="col-md-1"></div>
+     <div class="col-md-10">
+        <h1>Weather</h1>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col">Date</th>
+                        <th scope="col">Weather Summary</th>
+                        <th scope="col">High Temperature</th>
+                        <th scope="col">Low Temperature</th>
+                    </tr>
+                </thead>
+                        <% for daily in @forecast["daily"]["data"] %>
+                            <tbody>
+                            <tr>
+                            
+                            <th scope="row"><%= daily["time"]%></th>
+                            
+                           
+                            <td><%= daily["summary"]%></td> 
+                            
+                           
+                            <td><%= daily["temperatureHigh"]%> </td> 
+                            
+                            
+                            <td><%= daily["temperatureLow"]%> </td> 
+                            </tr> 
+                            </tbody>
+                        <% end %>
+            </table>
+        </div>
+        <div class="col-md-1"></div>
+        </div>    
+        </div> 
+        <div>
+     <div class="container-fluid">
+     <div class="row">
+     <div class="col-md-1"></div>
+     <div class="col-md-10">
+        <p><h1>Today's Top Headlines</h1></p>
+        
             <ul>
                 <% for zebra in @news["articles"] %>
-                <li><%= zebra["title"]%> ; <%= zebra["url"] %></li> 
+                <li><a href = "<%= zebra["url"]%>"><%= zebra["title"]%></a></li> 
                 <% end %>
             </ul>
-                
+        </div>
+        <div class="col-md-1"></div>  
+        </div>
+        </div>      
